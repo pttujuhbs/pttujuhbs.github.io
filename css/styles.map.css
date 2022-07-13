@@ -1,0 +1,22 @@
+.map {
+  background-image: url(../assets/background/background-1920px-1080px.png);
+  color: white;
+}
+
+.map h1 {
+  font-weight: 700;
+  font-family: 'Bebas Neue', cursive;
+  text-align: center;
+}
+
+.map img {
+  width: 400px;
+  height: auto;
+}
+
+@media (min-width: 768px) {
+  .map img {
+    width: 750px;
+    height: auto;
+  }
+}

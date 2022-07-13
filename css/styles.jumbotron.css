@@ -1,0 +1,48 @@
+.img-profile {
+  width: auto;
+  height: 250px;
+  /* border-radius: 15% 15% 15% 15%; */
+  border: 5px solid #2d302d;
+  box-shadow: 5px 10px 10px rgb(0, 0, 0);
+}
+.jumbotron {
+  text-align: center;
+  background-image: url(../assets/background/background-1920px-1080px.png);
+  color: white;
+  height: auto;
+  margin-top: -75px;
+  padding-top: 8rem;
+}
+
+.display-4 {
+  font-weight: 700;
+  font-family: 'Bebas Neue', cursive;
+}
+
+.jumbotron-h4,
+.jumbotron-p {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
+}
+
+@media (min-width: 768px) {
+  .img-profile {
+    border-radius: 40% 40% 0% 0%;
+    width: auto;
+    height: 200px;
+  }
+  .jumbotron {
+    text-align: left;
+  }
+}
+
+@media (min-width: 992px) {
+  .img-profile {
+    border-radius: 40% 40% 0% 0%;
+    width: auto;
+    height: 250px;
+  }
+  .jumbotron {
+    text-align: left;
+  }
+}

@@ -1,0 +1,28 @@
+.contact {
+  background-image: url(../assets/background/background-1920x-px.png);
+  margin: -1px;
+  color: white;
+  text-align: center;
+  text-shadow: 2px 1px 1px rgba(0, 0, 0, 0.7);
+}
+
+.contact img {
+  width: 350px;
+  height: auto;
+  box-shadow: 5px 10px 10px rgb(0, 0, 0);
+}
+.contact h1 {
+  font-weight: 700;
+  font-family: 'Bebas Neue', cursive;
+  letter-spacing: 5px;
+  margin-top: 15px;
+}
+
+.contact h4 {
+  font-family: 'Bebas Neue', cursive;
+  letter-spacing: 3px;
+}
+
+.contact p {
+  font-family: 'Oswald', sans-serif;
+}

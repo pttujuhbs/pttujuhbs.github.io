@@ -1,0 +1,24 @@
+/* build CSS navbar */
+.navbar-brand {
+  font-weight: 600;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 25px;
+  letter-spacing: 1px;
+}
+.nav-link {
+  text-transform: uppercase;
+  font-family: 'Oswald', sans-serif;
+}
+
+.navbar-brand,
+.nav-link {
+  color: white;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.7);
+}
+
+.img-logos {
+  clip-path: circle(50% at 50% 50%);
+  width: 35px;
+  height: auto;
+}
+/* end CSS Navbar */ ;

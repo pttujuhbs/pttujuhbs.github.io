@@ -1,0 +1,30 @@
+.product {
+  background-image: url(../assets/background/background-1920px-1080px.png);
+  text-align: center;
+  color: white;
+}
+
+.product h1 {
+  font-weight: 700;
+  font-family: 'Bebas Neue', cursive;
+  letter-spacing: 3px;
+}
+.product h3 {
+  font-weight: 700;
+  font-family: 'Bebas Neue', cursive;
+  letter-spacing: 3px;
+}
+
+.product P {
+  font-family: 'Oswald', cursive;
+  letter-spacing: 3px;
+}
+
+.product img {
+  box-shadow: 5px 10px 10px rgb(0, 0, 0);
+}
+
+.product .list-active {
+  text-align: left;
+  font-size: 14px;
+}
